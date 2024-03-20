@@ -55,6 +55,7 @@ const y = 5;
 console.log(y)
 // y = 6;
 // console.log(y)
+// constant variables cant be changed
 
 
 // Video break 1__________________
