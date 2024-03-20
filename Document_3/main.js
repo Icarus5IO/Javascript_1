@@ -1,8 +1,8 @@
 // Get your ranger data
 const getData = async () => {
-    let responce = await axios.get(`https://my-json-server.typicode.com/CodingTemple/Power-Rangers-API-json/rangers`)
-    console.log(responce.data)
-    return responce.data
+    let response = await axios.get(`https://my-json-server.typicode.com/CodingTemple/Power-Rangers-API-json/rangers`)
+    console.log(response.data)
+    return response.data
 }
 
 //  Create constants to hold DOM elements
